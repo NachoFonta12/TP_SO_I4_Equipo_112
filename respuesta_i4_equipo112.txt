@@ -1,3 +1,9 @@
 a- El color en esting es blue
 b- El color en desarrollo es yellow
 c- El color en master es blue.
+d- El favicon de alfa
+
+e & f- Beta tuvo problemas para hacer el push por no tener el repositorio local actualizado.
+g- Se puede usar git push -f, lo cual sobreescribiría los cambios hechos por alfa ya que el archivo era el mismo.
+h- El que se utilice más tarde será el que quede.
+i- Hay que actualizar con un git pull antes de hacer cada push.
